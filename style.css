@@ -1,4 +1,14 @@
 body {
-    background-color: blue;
-    color: white;
+    background-color: powderblue;
+    color: #A462BA;
 }
+a {color:#B685C6;}
+.myHeader {
+  background-color: #94D8DD;
+  color: #A462BA;
+  padding: 40px;
+  text-align: center;
+} 
+#shahar{width : 900px; background-color: white}
+
+#myHeader {background-color:white; width :900px;height:90px}
