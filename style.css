@@ -2,6 +2,9 @@ body {
     background-color: powderblue;
     color: #A462BA;
 }
+/**{
+	margin: 0 auto;
+}*/
 a {color:#B685C6;}
 .myHeader {
 
@@ -10,22 +13,16 @@ a {color:#B685C6;}
   padding: 40px;
   text-align: center;
 } 
-#shahar :hover{width : 900px; background-color: white}
+#shahar :hover{width : 900px; background-color: whitetext-align: center;position: relative;left: 25%}
 
-#myHeader {background-color:white; width :900px;height:90px}
+#myHeader {background-color:white; width :900px;height:90px;text-align: center;position: absolute;left: 25%}
 
-body {
-  align-items: center;
-  display: flex;
-  height: 100vh;
-  justify-content: center;
-}
 
 a {
   border-bottom: 1px solid #453886;
   color: #453886;
   padding-bottom: .25em;
-  text-decoration: none;
+  text-decoration: none;text-align: center;position: relative;left: 50%
 }
 
 a:hover {
@@ -41,7 +38,7 @@ a:hover {
 a:hover { 
   color: black;
 }
-.bfr_lst :hover {color :#D17373;}
+.bfr_lst :hover {color :#D17373;text-align: center;position: relative;left: 25%}
 #span_cover:hover + #hidden_div {
     display: block;
 }
