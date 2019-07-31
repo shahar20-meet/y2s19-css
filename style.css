@@ -5,6 +5,7 @@ body {
 /**{
 	margin: 0 auto;
 }*/
+
 *{text-align: center;position: relative;}
 a {color:#B685C6;}
 .myHeader {
@@ -15,7 +16,7 @@ a {color:#B685C6;}
   text-align: center;
 } 
 /**#shahar :hover{width : 900px; background-color: white}*/
-#myHeader {background-color:white; width :900px;height:90px;text-align: center;position: absolute;left: 27.7%}
+#myHeader {background-color:white; width :900px;height:90px;text-align: center;position: absolute;left: 25%}
 
 
 a {
